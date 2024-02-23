@@ -9,7 +9,9 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
 5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
 
 --Extraindo texto de imagem
+<br>
 Imagem usada para teste
+<br>
 <img src="./inputs/imgTexto.jpg">
 
 Resultado:
