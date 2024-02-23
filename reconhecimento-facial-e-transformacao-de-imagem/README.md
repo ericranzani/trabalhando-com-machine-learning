@@ -11,22 +11,22 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
    <img src="./img/img1.PNG">
    <br>
 
---Extraindo texto de imagem
+<h2>-Extraindo texto de imagem</h2>
 <br>
 Imagem usada para teste
 <br>
 <img src="./inputs/imgTexto.jpg">
 
-Resultado:
+<h2>Resultado:</h2>
 <img src="./outputs/img2.PNG">
 <img src="./outputs/img3.PNG">
 
---Extraindo a ação da imagem para descreve-la
+<h2>-Extraindo a ação da imagem para descreve-la</h2>
 Imagens usada para teste
 <img src="./inputs/imagem4.jpg">
 <img src="./inputs/614690.jpg">
 
-Resultado:
+<h2>Resultado:</h2>
 <img src="./outputs/img4.PNG">
 <img src="./outputs/img5.PNG">
 <img src="./outputs/img6.PNG">
