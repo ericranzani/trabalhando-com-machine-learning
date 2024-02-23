@@ -7,6 +7,9 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
 3. Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
 4. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
 5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
+   <br>
+   <img src="./img/img1.PNG">
+   <br>
 
 --Extraindo texto de imagem
 <br>
