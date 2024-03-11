@@ -1,4 +1,4 @@
-<h1>Prática 01</h1>
+<h1>Prática</h1>
 <p>link | https://copilot.microsoft.com/?azure-portal=true</p>
 <p>Documentação | https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html</p>
 <img src='./img/img1.JPG'>
