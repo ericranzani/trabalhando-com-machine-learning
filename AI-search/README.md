@@ -5,17 +5,17 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
 3. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
 4. documentação https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html#index-the-documents
 
-<h2>Criando o serviço de IA search</h2>
+<h2>Criando o serviço de IA search.</h2>
 <img src="./img/cirando-servico-search.JPG">
 <br>
 
-<h2>Criando outro serviço IA </h2>
+<h2>Criando outro serviço IA. </h2>
 <img src="./img/img2-criando-outro-servico.JPG">
 <br>
 
 <h2>Criando o storage da conta </h2>
 <img src="./img/img3-criando-storage.JPG">
-<h2>Aqui é onde vai fica separado os tipos de dados</h2>
+<h2>Aqui é onde vai fica separado os tipos de dados.</h2>
 <img src="./img/img4-tipos-dados.JPG">
 <br>
 
