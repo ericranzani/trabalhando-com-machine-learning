@@ -8,34 +8,34 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
    <img src="./img/img1.PNG">
    <br>
 
-<h2>Criando Recurso</h2>
+<h2>Criando Recurso.</h2>
 <img src="./img/img2-criando-recurso.PNG">
 <br>
-<h2>Conversação de fala em texto em tempo real</h2>
+<h2>Conversação de fala em texto em tempo real.</h2>
 <br>
    <img src="./img/img3-gravando-audio.PNG">
-<p>Campo na qual pode criar um áudio ou fazer um upload dele</p>
+<p>Campo na qual pode criar um áudio ou fazer um upload dele.</p>
 
 <br>
    <img src="./img/img4-texto-em-json.PNG">
-<p>Sera mostrado ate o JSON do áudio que foi utilizado</p>
+<p>Sera mostrado ate o JSON do áudio que foi utilizado.</p>
 
 <h2>Serviço de language</h2>
 <img src="./img/img5-criando-servico-de-linguagem.PNG">
-<p>Criando serviço de linguagem</p>
+<p>Criando serviço de linguagem.</p>
 <br>
 <img src="./img/img6.PNG">
 <br>
 <img src="./img/img7.PNG">
 <br>
 <img src="./img/img8-finalizacao-do-deploy.PNG">
-<p>Finalizando o deploy do serviço criado</p>
+<p>Finalizando o deploy do serviço criado.</p>
 <br>
 <img src="./img/img9-finalizada.PNG">
-<p>Serviço criado</p>
+<p>Serviço criado.</p>
 <br>
 
-<h3>Teste com texto do documento</h3>
+<h3>Teste com texto do documento.</h3>
 <img src="./img/img10.PNG">
 <br>
 <img src="./img/img11.PNG">
